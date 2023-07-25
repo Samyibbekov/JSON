@@ -1,0 +1,35 @@
+{
+   "John": {
+      "age": 27,
+      "parents": {
+        "Nick": {
+          "age": 45
+        },
+        "Stella": {
+          "age": 43
+        }
+      }
+    },
+    "Dave": {
+      "age": 22,
+      "parents": {
+        "Malick": {
+          "age": 89
+        },
+        "Kiki": {
+          "age": 23
+        }
+      }
+    },
+    "Ahmed": {
+      "age": 30,
+      "parents": {
+        "Umar": {
+          "age": 40
+        },
+        "Sali": {
+          "age": 73
+        }
+      }
+    }
+}
